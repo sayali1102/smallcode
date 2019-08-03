@@ -1,0 +1,2 @@
+# smallcode
+problem solving
